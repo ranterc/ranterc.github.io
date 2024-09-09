@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ranterc.github.io/sitemap.html.gz
+Sitemap: https://ranterc.github.io/app/sitemap.html.gz
+Sitemap: https://ranterc.github.io/assets/sitemap.html.gz
+Sitemap: https://ranterc.github.io/css/sitemap.html.gz
+Sitemap: https://ranterc.github.io/includes/sitemap.html.gz
+Sitemap: https://ranterc.github.io/item/sitemap.html.gz
+Sitemap: https://ranterc.github.io/src/sitemap.html.gz
